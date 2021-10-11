@@ -1,0 +1,274 @@
+.h1{
+    background-image:url(./p.jpeg) ;
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+.d0{
+    margin-left: 37%;
+    background-color:transparent;
+    
+    padding: 3px;
+    margin-right: 24%;
+}
+.title{
+    font-family: Georgia, serif;
+    font-weight: bold;
+    font-size: 4em; /* 40px/16=2.5em */
+    color:#80391e;
+}
+.ti{
+    font-family: Georgia, serif;
+    font-weight: bold;
+    font-size: 1.875em; /* 30px/16=1.875em */
+    color: rgb(20, 6, 102);
+}
+.d1{
+        border: 0;;
+        padding-left: 40%;
+        padding-top: 11%;
+        border-radius: 0.4pc;  
+}
+
+.pu{
+    border-radius: 0.4pc;
+
+}
+.n{
+    text-decoration: overline;
+    color: rgb(17, 14, 14);
+}
+.b1{
+    position: absolute;  
+    background-color: #f1f1f1;
+    color:black;
+    font-size: 16px;
+    padding: 16px 30px;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+    text-align: center;
+    background-color: rgb(65, 65, 235);
+}
+
+
+
+
+
+
+
+
+.h2{
+    background-image:url(./s2.jpg) ;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-attachment: fixed;
+}
+
+.u1{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+
+    background-color: #333;
+  }
+  
+  .l1 {
+    float: left;
+  }
+  
+  .a1 {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 25px 100px;
+    text-decoration: none;
+  }
+  
+  .a1:hover {
+    background-color: #111;
+  }
+
+
+
+
+
+
+
+
+
+
+  .u2 {
+    list-style-type: none;
+    margin: 14px;
+    padding: 0;
+    width: 208px;
+    background-color: #e6dada;
+    margin-top: 3%;
+  }
+
+  
+    .a2 {
+        display: block;
+        color: #000;
+        padding: 8px 16px;
+        text-decoration: none;
+    }
+    #a2{
+        display: block;
+        color: #000;
+        padding: 8px 16px;
+        text-decoration: none;
+    }
+
+    .a2.active {
+        background-color: #04AA6D;
+        color: white;
+    }
+    
+    .a2:hover:not(.active) {
+        background-color: #555;
+        color: white;
+    }
+
+
+
+
+
+
+
+
+
+    .btn-g button {
+        background-color: #04AA6D; /* Green background */
+        border: 1px solid green; /* Green border */
+        color: white; /* White text */
+        padding: 10px 24px; /* Some padding */
+        cursor: pointer; /* Pointer/hand icon */
+        width: 50%; /* Set a width if needed */
+        display: block; /* Make the buttons appear below each other */
+      }
+      
+      .btn-g button:not(:last-child) {
+        border-bottom: none; /* Prevent double borders */
+      }
+      
+      /* Add a background color on hover */
+      .btn-g button:hover {
+        background-color: #3e8e41;
+      }
+      .c{
+        width: 150px;
+        padding-left: 231px;
+        margin-top: -154px;
+      }
+
+
+
+
+
+
+ 
+
+
+     .di{ border: 0;;
+      padding-left: 40%;
+      padding-top: 11%;
+      border-radius: 0.4pc;
+     }
+      .p{
+      border-radius: 0.4pc;
+
+     }
+
+.n1{
+  text-decoration: overline;
+  color: rgb(17, 14, 14);
+}
+.b2{
+  position: absolute;  
+  background-color: #f1f1f1;
+  color:black;
+  font-size: 16px;
+  padding: 16px 30px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+  text-align: center;
+  background-color: rgb(65, 65, 235);
+}
+.h3{
+  background-image: url(./s3.jpg);
+  background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+#tx{
+  position:absolute;
+  margin-left: -159px;
+  padding-top: 193px;
+}
+#t1{
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  width: 100%;
+  border: 1px solid rgba(51, 21, 121, 0.04);
+  background-color: #ffffff;
+
+}
+#t2{
+  
+    justify-content: space-around;
+    align-items: center;
+    width: 100%;
+    border: 1px solid rgba(0, 0, 0, 0.04);
+    background-color: #ffffff;
+  
+}
+#t3{
+  
+    justify-content: space-around;
+    align-items: center;
+    width: 100%;
+    border: 1px solid rgba(0, 0, 0, 0.04);
+    background-color: #ffffff;
+    
+}
+#t4{
+  
+  justify-content: space-around;
+  align-items: center;
+  width: 100%;
+  border: 1px solid rgba(0, 0, 0, 0.04);
+  background-color: #ffffff;
+
+}
+.mg{
+  width: 552px;
+    margin-left: 80px;
+    margin-top: -152px;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.h4{
+  background-image: url(./s4.jpg);
+  background-repeat: no-repeat;
+    background-size: 100%;
+
+}
